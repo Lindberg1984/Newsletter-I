@@ -1,5 +1,5 @@
 html,
-body, 
+body,
 html body * {
   box-sizing: border-box;
 }
@@ -24,14 +24,14 @@ body {
 }
 
 .newsletter__inner {
-  background-color: #17C164;
+  background-color: #17c164;
   border: 1px solid #000000;
   border-radius: 15px;
   padding: 16px 20px 30px;
 }
 
 .newsletter__info {
-  color: #FFF;
+  color: #fff;
   font-size: 14px;
   font-weight: 700;
   margin-bottom: 25px;
@@ -54,6 +54,7 @@ body {
   border-radius: 5px;
   border: 1px solid transparent;
   display: block;
+  font-size: 16px;
   width: 100%;
   margin-bottom: 15px;
 }
@@ -70,7 +71,7 @@ body {
   box-shadow: 3px 3px 3px #000;
   color: white;
   font-weight: 500;
-  font-size: 15px;
+  font-size: 18px;
   text-shadow: 3px 3px 3px #000;
   text-transform: uppercase;
   text-align: center;
